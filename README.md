@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mohammad Mustaqeem 👋
 
-<!--
-**Mohammad-Mustaqeem/Mohammad-Mustaqeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer building production-grade web applications.  
+Currently shipping AI-powered products at **Nueronix Technologies**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Frontend:** React.js • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3  
+**Backend:** Node.js • Express.js • PHP • REST APIs  
+**Database:** MySQL • Schema Design • Query Optimization  
+**DevOps:** Vercel • Git • GitHub • CI/CD • Linux
+
+---
+
+## 🚀 What I'm Working On
+
+- AI-integrated SaaS dashboards with JWT auth & role-based access control
+- Full-stack client portals with automated CI/CD deployment pipelines
+- REST APIs with optimized MySQL backends (sub-100ms query performance)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Stack | Live |
+|---|---|---|
+| Nueronix Platform | React, Node.js, Vercel | [neuronix.vercel.app](https://neuronix.vercel.app) |
+| AI SaaS Dashboard | React, MySQL, JWT | Private |
+| Restaurant Booking System | HTML, CSS, JS, MySQL | — |
+
+---
+
+## 📫 Contact
+
+📧 mustaqeemdev@gmail.com  
+📍 Vijayapura, Karnataka, India
