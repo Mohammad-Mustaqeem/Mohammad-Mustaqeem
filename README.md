@@ -34,5 +34,5 @@ Currently shipping AI-powered products at **Nueronix Technologies**.
 
 ## 📫 Contact
 
-📧 mustaqeemdev@gmail.com  
+📧 zainaigali688@gmail.com  
 📍 Vijayapura, Karnataka, India
