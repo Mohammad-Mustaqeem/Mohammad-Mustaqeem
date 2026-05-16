@@ -10,7 +10,7 @@ Currently shipping AI-powered products at **Nueronix Technologies**.
 **Frontend:** React.js • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3  
 **Backend:** Node.js • Express.js • PHP • REST APIs  
 **Database:** MySQL • Schema Design • Query Optimization  
-**DevOps:** Vercel • Git • GitHub • CI/CD • Linux
+**DevOps:** Vercel • Git • GitHub 
 
 ---
 
