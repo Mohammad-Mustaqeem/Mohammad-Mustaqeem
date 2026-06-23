@@ -16,4 +16,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linkedin" width="50%" height="50%"/>
     </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=gmail" width="50%" height="50%"/>
+    </a>
 </div>
