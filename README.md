@@ -1,6 +1,6 @@
 <h2 align="left">Tech Stack:</h2>
 <div>
-
+<--
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="50" height="50" alt="Docker" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="50" height="50" alt="Git" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="50" height="50" alt="Gitlab" />
