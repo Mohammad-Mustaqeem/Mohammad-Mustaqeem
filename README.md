@@ -12,7 +12,7 @@
 
 <h2 align="left">Reach me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-mustaqeem-aigali">
+  <a href="[https://www.linkedin.com/in/mohammad-mustaqeem-aigali]">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
   </a>
   &nbsp;
