@@ -11,11 +11,12 @@
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/node.svg" width="50" height="50" alt="Node" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/express.svg" width="50" height="50" alt="Experss" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/mongodb.svg" width="50" height="50" alt="MongoDB" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/claude.svg" width="50" height="50" alt="Claude" />
 	 -->
 
  <p align="left">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,css,html,vscode,javascript,react,nodejs,express,mongodb" width="50%" height="50%"/>
+    <img src="https://skillicons.dev/icons?i=docker,css,html,vscode,javascript,react,nodejs,express,mongodb,claude" width="50%" height="50%"/>
   </a>
   </a>
 </p>
