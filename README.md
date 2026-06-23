@@ -7,11 +7,14 @@
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="50" height="50" alt="Vscode" />
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="50" height="50" alt="HTML" />
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50" alt="CSS" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/react.svg" width="50" height="50" alt="CSS" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/node.svg" width="50" height="50" alt="CSS" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/express.svg" width="50" height="50" alt="CSS" />
 	 -->
 
  <p align="left">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,css,html,vscode,javascript" width="50%" height="50%"/>
+    <img src="https://skillicons.dev/icons?i=docker,css,html,vscode,javascript,react,node,express" width="50%" height="50%"/>
   </a>
   </a>
 </p>
