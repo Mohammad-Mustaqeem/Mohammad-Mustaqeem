@@ -11,7 +11,6 @@
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/node.svg" width="50" height="50" alt="Node" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/express.svg" width="50" height="50" alt="Experss" />
 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/mongodb.svg" width="50" height="50" alt="MongoDB" />
-	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/claude.svg" width="50" height="50" alt="Claude" />
 	 -->
 
  <p align="left">
