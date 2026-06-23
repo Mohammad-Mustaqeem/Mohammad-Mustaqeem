@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
   </a>
   &nbsp;
-<a href="mailto:zainaigali688@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=zainaigali688@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" height="50"/>
 </a>
 </p>
