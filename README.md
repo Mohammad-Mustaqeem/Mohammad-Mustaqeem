@@ -14,7 +14,7 @@
 
  <p align="left">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,css,html,vscode,javascript,react,node,express" width="50%" height="50%"/>
+    <img src="https://skillicons.dev/icons?i=docker,css,html,vscode,javascript,react,nodejs,express" width="50%" height="50%"/>
   </a>
   </a>
 </p>
