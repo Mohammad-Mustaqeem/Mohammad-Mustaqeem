@@ -21,5 +21,5 @@
   </a>
 </p>
 ![Mohammad-Mustaqeem github stats]https://github-readme-stats.vercel.app/api?username=Mohammad-Mustaqeem&show_icons=true&hide_border=true&theme=dark
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Mustaqeem&layout=compact&theme=dark&hide_border=true)
+![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Mustaqeem&layout=compact&theme=dark&hide_border=true
 </div>
