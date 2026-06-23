@@ -5,7 +5,8 @@
       <img src="https://skillicons.dev/icons?i=docker,css,html,vscode,javascript,react,nodejs,express,mongodb,typescript" width="50%" height="50%"/>
     </a>
   </p>
+  <h2 align="left">Github Stats:</h2>
 </div>
-<h2 align="left">Github Stats:</h2>
+
 ![Mohammad-Mustaqeem](https://github-readme-stats.vercel.app/api?username=Mohammad-Mustaqeem&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Mustaqeem&layout=compact&theme=dark&hide_border=true)
