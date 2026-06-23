@@ -10,3 +10,10 @@
 
 ![Mohammad-Mustaqeem](https://github-readme-stats.vercel.app/api?username=Mohammad-Mustaqeem&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Mustaqeem&layout=compact&theme=dark&hide_border=true)
+<div>
+  <h2 align="left">Reach me:</h2>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="50%" height="50%"/>
+    </a>
+</div>
