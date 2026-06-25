@@ -1,7 +1,7 @@
 <h2 align="left">Tech Stack:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,docker,vscode"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,typescript,react,nodejs,express,mongodb,docker,vscode"/>
   </a>
 </p>
 
